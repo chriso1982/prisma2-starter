@@ -1,0 +1,5 @@
+node_modules/
+src/gererated/
+.next/
+.DS_Store
+.env
